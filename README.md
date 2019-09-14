@@ -1,2 +1,0 @@
-# TesArkademy
-Tes Beasiswa Arkademy
