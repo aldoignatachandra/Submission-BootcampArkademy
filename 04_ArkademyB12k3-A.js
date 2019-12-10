@@ -44,4 +44,4 @@ function CreateShape(size)
     return "Persegi Dengan Dimensi " + size + " x " + size;
 }
 
-console.log(CreateShape(5));
+console.log(CreateShape(7));

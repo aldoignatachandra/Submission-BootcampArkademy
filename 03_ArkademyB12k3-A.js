@@ -18,6 +18,7 @@ function FindPhrase(string, subString)
     while (true) 
     {
         pos = string.indexOf(subString, pos);
+        console.log(pos);
 
         if (pos >= 0) 
         {
@@ -31,4 +32,5 @@ function FindPhrase(string, subString)
     }
     return count;
 }
+
 console.log("Ditemukan " + FindPhrase("banananana","na") + " Kali Frasa/Kata Yang Sama");
