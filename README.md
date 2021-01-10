@@ -1,7 +1,7 @@
 <h1 align="center">Bootcamp Arkademy Submission</h1>
 
 <p align="center">
-    <img height="180" src="https://www.arkademy.com/img/logo%20arkademy-01.9c1222ba.png">
+    <img height="200" src="Logo_Arkademy.png">
 </p>
 
 <p align="center">
@@ -17,16 +17,18 @@
 </p>
 
 ## Bootcamp Arkademy Submission Batch 12
-| Solution of | Challenge                       | Solution | Note |
-|:--:|:-------------------------------:|:--------:|:--------:|
-| Problem 1 | [Create Biodata](https://github.com/aldoignatachandra/Bootcamp_Arkademy_Submission/blob/master/01_ArkademyB12k3-A.js) | JavaScript | - |
-| Problem 2 | [Check Valid Username & Password](https://github.com/aldoignatachandra/Bootcamp_Arkademy_Submission/blob/master/02_ArkademyB12k3-A.js) | JavaScript | - |
-| Problem 3 | [Count Phrase](https://github.com/aldoignatachandra/Bootcamp_Arkademy_Submission/blob/master/03_ArkademyB12k3-A.js) | JavaScript | - |
-| Problem 4 | [Drawing Square Pattern](https://github.com/aldoignatachandra/Bootcamp_Arkademy_Submission/blob/master/04_ArkademyB12k3-A.js) | JavaScript | - |
-| Problem 5 | [Random String](https://github.com/aldoignatachandra/Bootcamp_Arkademy_Submission/blob/master/05_ArkademyB12k3-A.js) | JavaScript | - |
-| Problem 6 | [CRUD Web](https://github.com/aldoignatachandra/Bootcamp_Arkademy_Submission/tree/master/06_ArkademyB12k3-A) | HTML, CSS, PHP, MYSQL | Styling using Bootstrap |
+
+| Solution of |                                                               Challenge                                                                |       Solution        |          Note           |
+| :---------: | :------------------------------------------------------------------------------------------------------------------------------------: | :-------------------: | :---------------------: |
+|  Problem 1  |         [Create Biodata](https://github.com/aldoignatachandra/Bootcamp_Arkademy_Submission/blob/master/01_ArkademyB12k3-A.js)          |      JavaScript       |            -            |
+|  Problem 2  | [Check Valid Username & Password](https://github.com/aldoignatachandra/Bootcamp_Arkademy_Submission/blob/master/02_ArkademyB12k3-A.js) |      JavaScript       |            -            |
+|  Problem 3  |          [Count Phrase](https://github.com/aldoignatachandra/Bootcamp_Arkademy_Submission/blob/master/03_ArkademyB12k3-A.js)           |      JavaScript       |            -            |
+|  Problem 4  |     [Drawing Square Pattern](https://github.com/aldoignatachandra/Bootcamp_Arkademy_Submission/blob/master/04_ArkademyB12k3-A.js)      |      JavaScript       |            -            |
+|  Problem 5  |          [Random String](https://github.com/aldoignatachandra/Bootcamp_Arkademy_Submission/blob/master/05_ArkademyB12k3-A.js)          |      JavaScript       |            -            |
+|  Problem 6  |              [CRUD Web](https://github.com/aldoignatachandra/Bootcamp_Arkademy_Submission/tree/master/06_ArkademyB12k3-A)              | HTML, CSS, PHP, MYSQL | Styling using Bootstrap |
 
 ## Screenshot For Problem Number 6
+
 <p align='center'>
   <span>
       <image width="800" src="Screenshot_Tabel.png" />
@@ -35,7 +37,9 @@
 </p>
 
 ## Author
+
 Written by [Aldo Ignata Chandra](https://github.com/aldoignatachandra)
 
 ## License
+
 [ISC](https://en.wikipedia.org/wiki/ISC_license "ISC")
